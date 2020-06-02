@@ -16,6 +16,12 @@
 ## Subnetting Info
 
 ## Important Port Numbers
+| Port Number | Function |
+| ----------- | -------- |
+|80|http|
+|443|https|
+|25|smtp|
+|22|ssh|
 
 ## RJ45 Connection wiring
 
