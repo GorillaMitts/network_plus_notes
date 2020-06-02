@@ -44,6 +44,7 @@ Where 255's exist, network ID numbers cannot be changed.
 |443|https|
 |25|smtp|
 |22|ssh|
+|23|telnet|
 
 ## RJ45 Connection wiring
 
