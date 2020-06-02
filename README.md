@@ -26,7 +26,7 @@ Each block is 8 bits
 (11111111.11111111.11111111.00000000)
 ```
 
-###Classless Inter-Domain Routing (CIDR)
+### Classless Inter-Domain Routing (CIDR)
 CIDR (/24)
 
 Where 255's exist, network ID numbers cannot be changed.
