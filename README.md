@@ -11,3 +11,11 @@
 | 3 - Network      | 2 - Internet    |
 | 2 - Data Link    |                 |
 | 1 - Physical     | 1 - Network Interface (Link)|
+
+
+## Subnetting Info
+
+
+## RJ45 Connection wiring
+
+## Connector Identification
