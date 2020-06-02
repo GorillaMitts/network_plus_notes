@@ -15,6 +15,28 @@
 
 ## Subnetting Info
 
+### Subnets must be all 1's followed by all 0's
+### Bit Math
+(128, 64, 32, 16, 8, 4, 2, 1)
+
+Determines local or long distance calls.
+```
+(255.255.255.0)
+Each block is 8 bits
+(11111111.11111111.11111111.00000000)
+```
+
+###Classless Inter-Domain Routing (CIDR)
+CIDR (/24)
+
+Where 255's exist, network ID numbers cannot be changed.
+192.168.1.xxx/24 = 254 hosts, 0 and 255 not used.
+
+### Network ID
+192.168.1.0
+(no host ID can end in .0 or .255)
+
+
 ## Important Port Numbers
 | Port Number | Function |
 | ----------- | -------- |
