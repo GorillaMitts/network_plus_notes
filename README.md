@@ -66,3 +66,7 @@ Switch Green and Orange. A = Split Oranges, B = Split Greens
 ## Connector Identification
 
 ## Virtual Local Area Networks (VLAN)
+Default VLAN is 1, CompTIA 0
+
+Setup in Managed Switches.
+Switch ports assigned by technician.
