@@ -64,3 +64,5 @@ Switch Green and Orange. A = Split Oranges, B = Split Greens
 
 
 ## Connector Identification
+
+## Virual Local Area Networks (VLAN)
