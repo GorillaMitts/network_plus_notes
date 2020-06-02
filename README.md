@@ -1,2 +1,2 @@
-# network_plus_notes
+# Network+ Notes
 
