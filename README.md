@@ -21,12 +21,18 @@
 
 |Connector Pin #   | 468A Color       | 468B  Color     |
 | ---------------- | ---------------- |---------------- |
-|1||
-|2||
-|3||
-|4||
-|5||
-|6||
+|8|Brown|Brown|
+|7|Brown/White|Brown/White|
+|6|Orange|Green|
+|5|Blue/White|Blue/White|
+|4|Blue|Blue|
+|3|Orange/White|Green/White|
+|2|Green|Orange|
+|1|Green/White|Orange/White|
+
+```
+Switch Green and Orange. A = Split Oranges, B = Split Greens
+```
 
 
 ## Connector Identification
