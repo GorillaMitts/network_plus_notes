@@ -32,17 +32,17 @@ Connectors
 - Cat 6a
 - Cat 7
 
-| Tbase Standard | Cable Type | Max Distance | Extra Info |
-|-|-|-|-|
-|100baseT||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+| TBase Standard | Cable Type | Speed | Max Distance | Extra Info |
+|-|-|-|-|-|
+| 10BaseT | Cat 3 or better |10 Mbps | 100 m | Max 1024 Nodes |
+| 100BaseT4 |Cat 3 | 100 Mbps | 100 m | replaced by Tx \ 1024 nodes \ uses all 4 utp pairs |
+| 100BaseTx | Cat 5e | 100 Mbps | 100 m | 1024 nodes \ only uses 2 utp pairs \ known as 100BaseT |
+| 100BaseFX | multimode | 100 Mbps | 2 Km | 1024 nodes \ |
+||||||
+||||||
+||||||
+||||||
+||||||
 
 ## Subnetting Info
 
