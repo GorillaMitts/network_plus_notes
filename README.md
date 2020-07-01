@@ -16,6 +16,7 @@
 
 ## Cabling Notes
 ### Coax Cabling
+- RG = (Radio Grade)
 - RG-58 - 50 Ohms
 - RG-59 - 75 Ohms
 - RG-6 - 75 Ohms
