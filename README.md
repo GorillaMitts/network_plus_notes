@@ -12,6 +12,17 @@
 | 2 - Data Link    |                 |
 | 1 - Physical     | 1 - Network Interface (Link)|
 
+* Please Do Not Take Salami Pizza Away
+
+## Cabling Notes
+### Coax Cabling
+- RG-58 - 50 Ohms
+- RG-59 - 75 Ohms
+- RG-6 - 75 Ohms
+
+Connectors
+- F-type: Threaded
+- BSN: Locking pin
 
 ## Subnetting Info
 
