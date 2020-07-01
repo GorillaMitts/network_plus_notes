@@ -24,6 +24,25 @@
 Connectors
 - F-type: Threaded
 - BNC: Locking pin
+## Ethernet Standards
+- Cat 3
+- Cat 5
+- Cat 5e
+- Cat 6
+- Cat 6a
+- Cat 7
+
+| Tbase Standard | Cable Type | Max Distance | Extra Info |
+|100baseT||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
 
 ## Subnetting Info
 
