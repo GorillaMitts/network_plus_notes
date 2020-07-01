@@ -33,8 +33,8 @@ Connectors
 - Cat 7
 
 | Tbase Standard | Cable Type | Max Distance | Extra Info |
+|-|-|-|-|
 |100baseT||||
-|||||
 |||||
 |||||
 |||||
