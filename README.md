@@ -23,7 +23,7 @@
 
 Connectors
 - F-type: Threaded
-- BSN: Locking pin
+- BNC: Locking pin
 
 ## Subnetting Info
 
