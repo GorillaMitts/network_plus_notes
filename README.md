@@ -26,14 +26,17 @@ Connectors
 - BNC: Locking pin
 
 ## Ethernet Standards
-| Name | Speed | Distance | Notes |
+- Max Length for utp ~100m
+- Cat rating is based on twists per inch
+
+| Name | Speed | Notes |
 |-|-|-|-|
-| Cat 3 | 10 Mbps | ~100 m | Obsolete |
-| Cat 5 | 100 Mbps | ~100 m ||
-| Cat 5e | 100 Mbps to 1000 Mbps | ~100 m | Replaced Cat5 |
-| Cat 6 | 1 Gbps | ~100 m | 10Gb for ~55 m |
-| Cat 6a | 10 Gbps | ~100m ||
-| Cat 7 | 10 Gbps | ~100m | Shielded connectors and twisted pairs |
+| Cat 3 | 10 Mbps | Obsolete |
+| Cat 5 | 100 Mbps ||
+| Cat 5e | 100 Mbps to 1000 Mbps | Replaced Cat5 |
+| Cat 6 | 1 Gbps | 10Gb for ~55 m |
+| Cat 6a | 10 Gbps ||
+| Cat 7 | 10 Gbps | Shielded connectors and twisted pairs |
 
 #### 10 Mbps
 | TBase Standard | Cable Type | Speed | Max Distance | Extra Info |
