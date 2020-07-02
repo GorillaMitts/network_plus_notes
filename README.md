@@ -30,7 +30,7 @@ Connectors
 - Cat rating is based on twists per inch
 
 | Name | Speed | Notes |
-|-|-|-|-|
+|-|-|-|
 | Cat 3 | 10 Mbps | Obsolete |
 | Cat 5 | 100 Mbps ||
 | Cat 5e | 100 Mbps to 1000 Mbps | Replaced Cat5 |
