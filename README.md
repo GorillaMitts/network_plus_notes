@@ -24,13 +24,16 @@
 Connectors
 - F-type: Threaded
 - BNC: Locking pin
+
 ## Ethernet Standards
-- Cat 3
-- Cat 5
-- Cat 5e
-- Cat 6
-- Cat 6a
-- Cat 7
+| Name | Speed | Distance | Notes |
+|-|-|
+| Cat 3| 10 Mbps | | Obsolete |
+| Cat 5 | 100 Mbps | ~100 m ||
+| Cat 5e | 100 Mbps - 1000 Mbps | ~100 m | Replaced Cat5 |
+| Cat 6 | 1 Gbps | ~100 m | 10Gb for ~55 m|
+| Cat 6a | 10 Gbps | ~100m |  |
+| Cat 7 | 10 Gbps | ~100m | Shielded connectors and twisted pairs |
 
 #### 10 Mbps
 | TBase Standard | Cable Type | Speed | Max Distance | Extra Info |
@@ -45,12 +48,17 @@ Connectors
 #### Gigabit
 | TBase Standard | Cable Type | Speed | Max Distance | Extra Info |
 |-|-|-|-|-|
-||||||
-||||||
-#### 10 Gbps
+| 1000BaseCX | TwinAX | 1 Gbps | 25 m | Copper Standard|
+| 1000BaseSX | multimode | 1 Gbps | 500 m ||
+| 1000BaseLX | single mode | 1 Gbps | 5 km ||
+| 1000BaseT | Cat 6 | 1 Gbps |100 m ||
+#### 10 Gigabit / SONET (Internet Backbone)
 | TBase Standard | Cable Type | Speed | Max Distance | Extra Info |
 |-|-|-|-|-|
-||||||
+| 10GBaseT | Cat 6 or Cat 6a | 10 Gbps | 6 - 55m \ 6a - 100m ||
+| 10GBaseSR | multimode | 10 Gbps | 26 - 400m | SW/EW/LW |
+| 10GBaseLR | single mode | 10 Gbps | 10 km | 1310 nm \ SW/EW/LW |
+| 10GBaseER | single mode | 10 Gbps | 40 km | 1550 nm \ SW/EW/LW |
 
 ## Subnetting Info
 
