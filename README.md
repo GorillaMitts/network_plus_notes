@@ -28,11 +28,11 @@ Connectors
 ## Ethernet Standards
 | Name | Speed | Distance | Notes |
 |-|-|-|
-| Cat 3| 10 Mbps | | Obsolete |
+| Cat 3 | 10 Mbps | | Obsolete |
 | Cat 5 | 100 Mbps | ~100 m ||
-| Cat 5e | 100 Mbps - 1000 Mbps | ~100 m | Replaced Cat5 |
-| Cat 6 | 1 Gbps | ~100 m | 10Gb for ~55 m|
-| Cat 6a | 10 Gbps | ~100m |  |
+| Cat 5e | 100 Mbps to 1000 Mbps | ~100 m | Replaced Cat5 |
+| Cat 6 | 1 Gbps | ~100 m | 10Gb for ~55 m |
+| Cat 6a | 10 Gbps | ~100m ||
 | Cat 7 | 10 Gbps | ~100m | Shielded connectors and twisted pairs |
 
 #### 10 Mbps
