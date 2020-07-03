@@ -86,6 +86,11 @@ Where 255's exist, network ID numbers cannot be changed.
 192.168.1.0
 (no host ID can end in .0 or .255)
 
+## Networking Commands
+| Windows | Linux/Mac | Purpose | Flags |
+|-|-|-|-|
+| tracert | traceroute | show hops | |
+| ping | ping | test network connection | |
 
 ## Important Port Numbers
 | Port Number | Function |
