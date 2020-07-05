@@ -89,17 +89,30 @@ Where 255's exist, network ID numbers cannot be changed.
 ## Networking Commands
 | Windows | Linux/Mac | Purpose | Flags |
 |-|-|-|-|
+| ipconfig | ifconfig | show network info | -a (show all NIC info) |
 | tracert | traceroute | show hops | |
 | ping | ping | test network connection | |
+| netstat ||||
+| nbtstat ||||
+| arp ||||
+| nslookup ||||
 
 ## Important Port Numbers
 | Port Number | Function |
 | ----------- | -------- |
-|80|http|
-|443|https|
-|25|smtp|
-|22|ssh|
-|23|telnet|
+| 20 | ftp |
+| 21 | ftp |
+| 22 | ssh |
+| 23 | telnet |
+| 25 | smtp |
+| 53 | dns |
+| 80 | http |
+| 110 | pop3 |
+| 115 | sftp |
+| 143 | imap |
+| 161 | snmp |
+| 220 | imap3 |
+| 443 | https |
 
 ## RJ45 Connection wiring
 
