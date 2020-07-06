@@ -100,19 +100,20 @@ Where 255's exist, network ID numbers cannot be changed.
 ## Important Port Numbers
 | Port Number | Function |
 | ----------- | -------- |
-| 20 | ftp |
+| 20 | ftp (file transfer protocol) |
 | 21 | ftp |
-| 22 | ssh |
-| 23 | telnet |
+| 22 | ssh (secure shell) |
+| 23 | telnet (telephone network) |
 | 25 | smtp |
-| 53 | dns |
-| 80 | http |
+| 53 | dns (domain name service) |
+| 80 | http (hyper text transport protocol) |
 | 110 | pop3 |
-| 115 | sftp |
+| 115 | sftp (secure ftp) |
+| 123 | ntp (network time protocol) |
 | 143 | imap |
-| 161 | snmp |
+| 161 | snmp (simple network management protocol) |
 | 220 | imap3 |
-| 443 | https |
+| 443 | https (secure http) |
 
 ## RJ45 Connection wiring
 
