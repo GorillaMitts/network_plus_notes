@@ -114,6 +114,8 @@ Where 255's exist, network ID numbers cannot be changed.
 | 161 | snmp (simple network management protocol) |
 | 220 | imap3 |
 | 443 | https (secure http) |
+| 465 | TLS / STARTTLS(old) |
+| 587 | STARTTLS(new) |
 
 ## RJ45 Connection wiring
 
