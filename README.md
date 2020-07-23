@@ -90,7 +90,7 @@ Where 255's exist, network ID numbers cannot be changed.
 | Windows | Linux/Mac | Purpose | Flags |
 |-|-|-|-|
 | ipconfig | ifconfig | show network info | -a (show all NIC info) |
-| tracert | traceroute | show hops | |
+| tracert | traceroute | show hops | aka pathping |
 | ping | ping | test network connection | |
 | netstat | netstat | show all active connections | -n (only ip addresses) -b (executable) -o (process id) -a (active ports) -r (local routing table) |
 | nbtstat | N/A | show NetBios info | |
