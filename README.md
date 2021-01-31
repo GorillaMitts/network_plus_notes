@@ -91,6 +91,7 @@ Where 255's exist, network ID numbers cannot be changed.
 |-|-|-|-|
 | ipconfig | ifconfig | show network info | -a (show all NIC info) |
 | tracert | traceroute | show hops | aka pathping |
+| route print | N/A | show routing table | same as netstat -r |
 | ping | ping | test network connection | |
 | netstat | netstat | show all active connections | -n (only ip addresses) -b (executable) -o (process id) -a (active ports) -r (local routing table) |
 | nbtstat | N/A | show NetBios info | |
