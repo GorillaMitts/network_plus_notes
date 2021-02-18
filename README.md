@@ -51,17 +51,17 @@ Connectors
 #### Gigabit
 | TBase Standard | Cable Type | Speed | Max Distance | Extra Info |
 |-|-|-|-|-|
-| 1000BaseCX | TwinAX | 1 Gbps | 25 m | Copper Standard|
-| 1000BaseSX | multimode | 1 Gbps | 500 m ||
-| 1000BaseLX | single mode | 1 Gbps | 5 km ||
-| 1000BaseT | Cat 6 | 1 Gbps |100 m ||
+| 1000BaseCX | TwinAX | 1 Gbps | 25 m | Copper cabling w/ TwinAX connectors|
+| 1000BaseSX | multimode | 1 Gbps | 500 m | Short range fiber|
+| 1000BaseLX | single mode | 1 Gbps | 5 km |long range fiber|
+| 1000BaseT | Cat 6 | 1 Gbps |100 m |Twisted pair cabling|
 #### 10 Gigabit / SONET (Internet Backbone)
-| TBase Standard | Cable Type | Speed | Max Distance | Extra Info |
-|-|-|-|-|-|
-| 10GBaseT | Cat 6 or Cat 6a | 10 Gbps | 6 - 55m \ 6a - 100m ||
-| 10GBaseSR | multimode | 10 Gbps | 26 - 400m | SW/EW/LW |
-| 10GBaseLR | single mode | 10 Gbps | 10 km | 1310 nm \ SW/EW/LW |
-| 10GBaseER | single mode | 10 Gbps | 40 km | 1550 nm \ SW/EW/LW |
+| TBase Standard | Cable Type | Speed | Max Distance | Extra Info | Notes |
+|-|-|-|-|-|-|
+| 10GBaseT | Cat 6 or Cat 6a | 10 Gbps | 6 - 55m \ 6a - 100m | twisted pair cabling| cheap |
+| 10GBaseSR | multimode fiber | 10 Gbps | 26 - 400m | SW/EW/LW | Short range fiber|
+| 10GBaseLR | single mode fiber | 10 Gbps | 10 km | 1310 nm \ SW/EW/LW | Long range fiber |
+| 10GBaseER | single mode fiber | 10 Gbps | 40 km | 1550 nm \ SW/EW/LW | Extra Long range finer|
 
 ## Subnetting Info
 
